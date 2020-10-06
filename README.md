@@ -27,9 +27,9 @@ we have used Transfer learning tecknique by INCEPTION V3 network .
 
 
 ## CNN NETWORK PYTHON CODE
-<img src="1.PNG" width="850" height="400" border="20" title="blood cells">
-<img src="2.PNG" width="850" height="400" border="20" title="blood cells">
-<img src="3.PNG" width="850" height="400" border="20" title="blood cells">
+<img src="1.PNG" width="850" height="600" border="20" title="blood cells">
+<img src="2.PNG" width="850" height="600" border="20" title="blood cells">
+<img src="3.PNG" width="850" height="150" border="20" title="blood cells">
 <img src="4.PNG" width="850" height="200" border="20" title="blood cells">
 
 ## ORDERING TO THE ROBOT 
