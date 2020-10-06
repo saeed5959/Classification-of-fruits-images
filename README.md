@@ -27,13 +27,13 @@ we have used Transfer learning tecknique by INCEPTION V3 network .
 
 
 ## CNN NETWORK PYTHON CODE
-<img src="1.PNG" width="650" height="400" border="20" title="blood cells">
-<img src="2.PNG" width="650" height="400" border="20" title="blood cells">
-<img src="3.PNG" width="650" height="400" border="20" title="blood cells">
-<img src="4.PNG" width="650" height="400" border="20" title="blood cells">
+<img src="1.PNG" width="850" height="400" border="20" title="blood cells">
+<img src="2.PNG" width="850" height="400" border="20" title="blood cells">
+<img src="3.PNG" width="850" height="400" border="20" title="blood cells">
+<img src="4.PNG" width="850" height="200" border="20" title="blood cells">
 
 ## ORDERING TO THE ROBOT 
-<img src="5.PNG" width="650" height="400" border="20" title="blood cells">
+<img src="5.PNG" width="850" height="300" border="20" title="blood cells">
 
 ## RESULT
 Accuracy of our network  : 
