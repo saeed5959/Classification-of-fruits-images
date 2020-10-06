@@ -2,6 +2,8 @@
 
 ## In this project for QeshmVoltage company , we want to seperate fruits in production line .
 
+### you can see my article (persian language) in : article.pdf
+
 Assume that in production line we have 6 different fruits that sequencely enter in a box and we want design a robot that after taking a picture of this fruit decides to put it in the certain group  
 
 
